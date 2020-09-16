@@ -39,3 +39,8 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
     PRIVATE_BUILD_DESC="crackling-user 7.1.1 N6F26Y 5506d7d322 release-keys"
 
 BUILD_FINGERPRINT := Wileyfox/Swift/crackling:7.1.1/N6F26Y/5506d7d322:user/release-keys
+
+# Trying to add face unlock. Thanks to @Cute_As_Heck for
+# providing the code. =)
+
+TARGET_FACE_UNLOCK_SUPPORTED := true
