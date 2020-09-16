@@ -21,7 +21,4 @@ COMMON_LUNCH_CHOICES := \
     lineage_crackling-userdebug \
     lineage_crackling-eng
 
-# Trying to add face unlock. Thanks to @Cute_As_Heck for
-# providing the code. =)
 
-TARGET_FACE_UNLOCK_SUPPORTED := true
